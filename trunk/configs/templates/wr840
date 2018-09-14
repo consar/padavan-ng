@@ -1,0 +1,1 @@
+cp configs/templates/tplink/tl_wr840n-v4.config .config
